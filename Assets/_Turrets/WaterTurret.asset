@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5ace6822f55da1438d2620c36bef359, type: 3}
+  m_Name: WaterTurret
+  m_EditorClassIdentifier: 
+  Price: 32000000640000002c010000
+  Range: 0f0000001900000032000000
+  Reload:
+  - 0.9
+  - 0.8
+  - 0.6
+  Damage: 040000000800000014000000
+  Materials:
+  - {fileID: 2100000, guid: 92654fd39451c91489e0111c98edf460, type: 2}
+  - {fileID: 2100000, guid: 3e53a614a1e2b9446bc68b8ac15ffd45, type: 2}
+  - {fileID: 2100000, guid: 0f6d7ddac352ec644a4eccaff396bb71, type: 2}
+  TurretPrefab: {fileID: 939335178, guid: 1a1296b54eb4bca419fabef3e8d450b7, type: 3}
